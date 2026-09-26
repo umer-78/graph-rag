@@ -1,0 +1,5142 @@
+{
+ "counts": {
+  "License": 46,
+  "Maintainer": 311,
+  "Package": 500,
+  "DEPENDS_ON": 1051,
+  "LICENSED_AS": 495,
+  "MAINTAINED_BY": 479
+ },
+ "resolution": {
+  "mentions": 1231,
+  "resolved": 1112
+ },
+ "raw_resolution": {
+  "mentions": 1231,
+  "resolved": 1042
+ },
+ "questions": [
+  {
+   "kind": "fact",
+   "question": "What is synchronicity used for?",
+   "gold": [
+    "package:synchronicity"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is jaraco.functools used for?",
+   "gold": [
+    "package:jaraco-functools"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is responses used for?",
+   "gold": [
+    "package:responses"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the truststore package do?",
+   "gold": [
+    "package:truststore"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is kiwisolver used for?",
+   "gold": [
+    "package:kiwisolver"
+   ],
+   "routed_intent": "fact",
+   "vector": 0.0,
+   "routed": 0.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the ast-serialize package do?",
+   "gold": [
+    "package:ast-serialize"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the google-cloud-compute package do?",
+   "gold": [
+    "package:google-cloud-compute"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is xxhash used for?",
+   "gold": [
+    "package:xxhash"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the nbclient package do?",
+   "gold": [
+    "package:nbclient"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is mmh3 used for?",
+   "gold": [
+    "package:mmh3"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is jsonpointer used for?",
+   "gold": [
+    "package:jsonpointer"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is uncalled-for used for?",
+   "gold": [
+    "package:uncalled-for"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is scikit-learn used for?",
+   "gold": [
+    "package:scikit-learn"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is sqlalchemy-bigquery used for?",
+   "gold": [
+    "package:sqlalchemy-bigquery"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the google-resumable-media package do?",
+   "gold": [
+    "package:google-resumable-media"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is yarl used for?",
+   "gold": [
+    "package:yarl"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is mcp-types used for?",
+   "gold": [
+    "package:mcp-types"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the idna package do?",
+   "gold": [
+    "package:idna"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the pdfminer.six package do?",
+   "gold": [
+    "package:pdfminer-six"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is typedload used for?",
+   "gold": [
+    "package:typedload"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the typing-extensions package do?",
+   "gold": [
+    "package:typing-extensions"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the Flask package do?",
+   "gold": [
+    "package:flask"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is mypy used for?",
+   "gold": [
+    "package:mypy"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the databricks-sdk package do?",
+   "gold": [
+    "package:databricks-sdk"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is google-cloud-run used for?",
+   "gold": [
+    "package:google-cloud-run"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the requests-oauthlib package do?",
+   "gold": [
+    "package:requests-oauthlib"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the cattrs package do?",
+   "gold": [
+    "package:cattrs"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is prompt_toolkit used for?",
+   "gold": [
+    "package:prompt-toolkit"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the sglang package do?",
+   "gold": [
+    "package:sglang"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the google-cloud-batch package do?",
+   "gold": [
+    "package:google-cloud-batch"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is typing-inspect used for?",
+   "gold": [
+    "package:typing-inspect"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the openai package do?",
+   "gold": [
+    "package:openai"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is pytest-asyncio used for?",
+   "gold": [
+    "package:pytest-asyncio"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is smart-open used for?",
+   "gold": [
+    "package:smart-open"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is poetry used for?",
+   "gold": [
+    "package:poetry"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is types-PyYAML used for?",
+   "gold": [
+    "package:types-pyyaml"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the datasets package do?",
+   "gold": [
+    "package:datasets"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the greenlet package do?",
+   "gold": [
+    "package:greenlet"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is certifi used for?",
+   "gold": [
+    "package:certifi"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is python-pptx used for?",
+   "gold": [
+    "package:python-pptx"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is beautifulsoup4 used for?",
+   "gold": [
+    "package:beautifulsoup4"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is types-protobuf used for?",
+   "gold": [
+    "package:types-protobuf"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is termcolor used for?",
+   "gold": [
+    "package:termcolor"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is pymupdf used for?",
+   "gold": [
+    "package:pymupdf"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the hatchling package do?",
+   "gold": [
+    "package:hatchling"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the matplotlib-inline package do?",
+   "gold": [
+    "package:matplotlib-inline"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is opentelemetry-proto used for?",
+   "gold": [
+    "package:opentelemetry-proto"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is cffi used for?",
+   "gold": [
+    "package:cffi"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the hyperframe package do?",
+   "gold": [
+    "package:hyperframe"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the langsmith package do?",
+   "gold": [
+    "package:langsmith"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the grpcio package do?",
+   "gold": [
+    "package:grpcio"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the polars-runtime-32 package do?",
+   "gold": [
+    "package:polars-runtime-32"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the py package do?",
+   "gold": [
+    "package:py"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is tzdata used for?",
+   "gold": [
+    "package:tzdata"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the fastapi-cloud-cli package do?",
+   "gold": [
+    "package:fastapi-cloud-cli"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is opentelemetry-instrumentation-asgi used for?",
+   "gold": [
+    "package:opentelemetry-instrumentation-asgi"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the linkify-it-py package do?",
+   "gold": [
+    "package:linkify-it-py"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What does the tomli package do?",
+   "gold": [
+    "package:tomli"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is nltk used for?",
+   "gold": [
+    "package:nltk"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "fact",
+   "question": "What is google-cloud-core used for?",
+   "gold": [
+    "package:google-cloud-core"
+   ],
+   "routed_intent": "fact",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of anthropic?",
+   "gold": [
+    "package:anyio",
+    "package:docstring-parser",
+    "package:httpx2",
+    "package:jiter",
+    "package:pydantic",
+    "package:sniffio",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does google-cloud-tasks need at runtime?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:grpc-google-iam-v1",
+    "package:grpcio",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of dbt-common?",
+   "gold": [
+    "package:colorama",
+    "package:deepdiff",
+    "package:isodate",
+    "package:jinja2",
+    "package:jsonschema",
+    "package:opentelemetry-api",
+    "package:pathspec",
+    "package:protobuf",
+    "package:python-dateutil",
+    "package:requests",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What does typing-inspect depend on?",
+   "gold": [
+    "package:mypy-extensions",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of google-cloud-dlp?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:grpcio",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of langchain?",
+   "gold": [
+    "package:langchain-core",
+    "package:langgraph",
+    "package:pydantic"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What does google-api-core depend on?",
+   "gold": [
+    "package:google-auth",
+    "package:googleapis-common-protos",
+    "package:opentelemetry-api",
+    "package:proto-plus",
+    "package:protobuf",
+    "package:requests"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.16666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What does httpx2 depend on?",
+   "gold": [
+    "package:anyio",
+    "package:httpcore2",
+    "package:idna",
+    "package:truststore",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.2,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of msrest?",
+   "gold": [
+    "package:azure-core",
+    "package:certifi",
+    "package:isodate",
+    "package:requests",
+    "package:requests-oauthlib"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What does boto3 depend on?",
+   "gold": [
+    "package:botocore",
+    "package:jmespath",
+    "package:s3transfer"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What does databricks-sql-connector depend on?",
+   "gold": [
+    "package:lz4",
+    "package:oauthlib",
+    "package:openpyxl",
+    "package:pandas",
+    "package:pyjwt",
+    "package:python-dateutil",
+    "package:requests",
+    "package:urllib3"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does fastmcp-slim need at runtime?",
+   "gold": [
+    "package:mcp-types",
+    "package:platformdirs",
+    "package:pydantic",
+    "package:pydantic-settings",
+    "package:python-dotenv",
+    "package:rich",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of vcs-versioning?",
+   "gold": [
+    "package:packaging",
+    "package:tomli",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does azure-identity need at runtime?",
+   "gold": [
+    "package:azure-core",
+    "package:cryptography",
+    "package:msal",
+    "package:msal-extensions",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.6,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What does pyOpenSSL depend on?",
+   "gold": [
+    "package:cryptography",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of scikit-learn?",
+   "gold": [
+    "package:joblib",
+    "package:narwhals",
+    "package:numpy",
+    "package:scipy",
+    "package:threadpoolctl"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does poetry-plugin-export need at runtime?",
+   "gold": [
+    "package:poetry",
+    "package:poetry-core",
+    "package:tomlkit"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of reportlab?",
+   "gold": [
+    "package:charset-normalizer",
+    "package:pillow"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What does CacheControl depend on?",
+   "gold": [
+    "package:msgpack",
+    "package:requests"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What does arrow depend on?",
+   "gold": [
+    "package:python-dateutil",
+    "package:tzdata"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does docker need at runtime?",
+   "gold": [
+    "package:requests",
+    "package:urllib3"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of sqlalchemy-bigquery?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:google-cloud-bigquery",
+    "package:packaging",
+    "package:sqlalchemy"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.4,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does google-cloud-aiplatform need at runtime?",
+   "gold": [
+    "package:certifi",
+    "package:docstring-parser",
+    "package:google-api-core",
+    "package:google-auth",
+    "package:google-cloud-bigquery",
+    "package:google-cloud-resource-manager",
+    "package:google-cloud-storage",
+    "package:google-genai",
+    "package:packaging",
+    "package:proto-plus",
+    "package:protobuf",
+    "package:pydantic",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.1,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of requests?",
+   "gold": [
+    "package:certifi",
+    "package:charset-normalizer",
+    "package:idna",
+    "package:urllib3"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of pytest?",
+   "gold": [
+    "package:colorama",
+    "package:exceptiongroup",
+    "package:iniconfig",
+    "package:packaging",
+    "package:pluggy",
+    "package:pygments",
+    "package:tomli"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does dbt-core need at runtime?",
+   "gold": [
+    "package:click",
+    "package:dbt-adapters",
+    "package:dbt-common",
+    "package:jinja2",
+    "package:jsonschema",
+    "package:networkx",
+    "package:opentelemetry-api",
+    "package:packaging",
+    "package:pathspec",
+    "package:protobuf",
+    "package:pydantic",
+    "package:python-dotenv",
+    "package:pytz",
+    "package:pyyaml",
+    "package:requests",
+    "package:sqlparse",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.3,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of libcst?",
+   "gold": [
+    "package:pyyaml",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does cyclopts need at runtime?",
+   "gold": [
+    "package:attrs",
+    "package:docstring-parser",
+    "package:rich",
+    "package:rich-rst"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does kubernetes need at runtime?",
+   "gold": [
+    "package:aiohttp",
+    "package:certifi",
+    "package:durationpy",
+    "package:python-dateutil",
+    "package:pyyaml",
+    "package:requests",
+    "package:requests-oauthlib",
+    "package:six",
+    "package:urllib3",
+    "package:websocket-client"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of weaviate-client?",
+   "gold": [
+    "package:authlib",
+    "package:grpcio",
+    "package:httpx",
+    "package:packaging",
+    "package:protobuf",
+    "package:pydantic"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does awswrangler need at runtime?",
+   "gold": [
+    "package:boto3",
+    "package:botocore",
+    "package:numpy",
+    "package:packaging",
+    "package:pandas",
+    "package:pyarrow",
+    "package:setuptools",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.375,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What does SecretStorage depend on?",
+   "gold": [
+    "package:cryptography",
+    "package:jeepney"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of anyio?",
+   "gold": [
+    "package:exceptiongroup",
+    "package:idna",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of google-cloud-batch?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:grpcio",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What does google-auth-oauthlib depend on?",
+   "gold": [
+    "package:google-auth",
+    "package:requests-oauthlib"
+   ],
+   "routed_intent": "deps",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does sglang need at runtime?",
+   "gold": [
+    "package:aiohttp",
+    "package:anthropic",
+    "package:build",
+    "package:datasets",
+    "package:distro",
+    "package:fastapi",
+    "package:ipython",
+    "package:numba",
+    "package:numpy",
+    "package:openai",
+    "package:orjson",
+    "package:packaging",
+    "package:pillow",
+    "package:prometheus-client",
+    "package:psutil",
+    "package:pydantic",
+    "package:python-multipart",
+    "package:pyzmq",
+    "package:requests",
+    "package:scipy",
+    "package:tiktoken",
+    "package:tokenizers",
+    "package:tomli",
+    "package:torch",
+    "package:tqdm",
+    "package:transformers",
+    "package:uvicorn",
+    "package:uvloop",
+    "package:watchfiles",
+    "package:xxhash",
+    "package:zstandard"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.1,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of opentelemetry-instrumentation?",
+   "gold": [
+    "package:opentelemetry-api",
+    "package:opentelemetry-semantic-conventions",
+    "package:packaging",
+    "package:wrapt"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.25,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What does google-cloud-compute depend on?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:grpcio",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does torch need at runtime?",
+   "gold": [
+    "package:filelock",
+    "package:fsspec",
+    "package:jinja2",
+    "package:networkx",
+    "package:setuptools",
+    "package:sympy",
+    "package:triton",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.125,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of snowflake-sqlalchemy?",
+   "gold": [
+    "package:snowflake-connector-python",
+    "package:sqlalchemy"
+   ],
+   "routed_intent": "deps",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What does py-key-value-aio depend on?",
+   "gold": [
+    "package:beartype",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of msal?",
+   "gold": [
+    "package:cryptography",
+    "package:pyjwt",
+    "package:requests"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does tiktoken need at runtime?",
+   "gold": [
+    "package:regex",
+    "package:requests"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What does google-cloud-secret-manager depend on?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:grpc-google-iam-v1",
+    "package:grpcio",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What does build depend on?",
+   "gold": [
+    "package:colorama",
+    "package:importlib-metadata",
+    "package:packaging",
+    "package:pyproject-hooks",
+    "package:tomli"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does starlette need at runtime?",
+   "gold": [
+    "package:anyio",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does snowflake-snowpark-python need at runtime?",
+   "gold": [
+    "package:cloudpickle",
+    "package:protobuf",
+    "package:python-dateutil",
+    "package:pyyaml",
+    "package:setuptools",
+    "package:snowflake-connector-python",
+    "package:typing-extensions",
+    "package:tzlocal",
+    "package:wheel"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.2222222222222222,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of grpcio-status?",
+   "gold": [
+    "package:googleapis-common-protos",
+    "package:grpcio",
+    "package:protobuf"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does jsonschema need at runtime?",
+   "gold": [
+    "package:attrs",
+    "package:jsonschema-specifications",
+    "package:referencing",
+    "package:rpds-py"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.75,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of nbclient?",
+   "gold": [
+    "package:jupyter-client",
+    "package:jupyter-core",
+    "package:nbformat",
+    "package:traitlets"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does google-auth-httplib2 need at runtime?",
+   "gold": [
+    "package:google-auth",
+    "package:httplib2"
+   ],
+   "routed_intent": "deps",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of pytest-asyncio?",
+   "gold": [
+    "package:pytest",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of opentelemetry-semantic-conventions?",
+   "gold": [
+    "package:opentelemetry-api",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of opentelemetry-exporter-otlp-proto-grpc?",
+   "gold": [
+    "package:googleapis-common-protos",
+    "package:grpcio",
+    "package:opentelemetry-api",
+    "package:opentelemetry-exporter-otlp-proto-common",
+    "package:opentelemetry-proto",
+    "package:opentelemetry-sdk",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.42857142857142855,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What does azure-core depend on?",
+   "gold": [
+    "package:requests",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of pydantic-settings?",
+   "gold": [
+    "package:pydantic",
+    "package:python-dotenv",
+    "package:typing-inspection"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does rich-toolkit need at runtime?",
+   "gold": [
+    "package:click",
+    "package:rich",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does google-cloud-bigquery-datatransfer need at runtime?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:grpcio",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "What are the dependencies of pydantic-graph?",
+   "gold": [
+    "package:anyio",
+    "package:pydantic",
+    "package:typing-inspection"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "deps",
+   "question": "Which packages does jupyter-client need at runtime?",
+   "gold": [
+    "package:jupyter-core",
+    "package:python-dateutil",
+    "package:pyzmq",
+    "package:tornado",
+    "package:traitlets",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "deps",
+   "vector": 0.16666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on dill?",
+   "gold": [
+    "package:datasets",
+    "package:multiprocess"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires aiohttp?",
+   "gold": [
+    "package:aiobotocore",
+    "package:gcsfs",
+    "package:kubernetes",
+    "package:litellm",
+    "package:modal",
+    "package:s3fs",
+    "package:sglang",
+    "package:ydb"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires jeepney?",
+   "gold": [
+    "package:keyring",
+    "package:secretstorage"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on pillow?",
+   "gold": [
+    "package:matplotlib",
+    "package:python-pptx",
+    "package:reportlab",
+    "package:sglang"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on h11?",
+   "gold": [
+    "package:httpcore",
+    "package:httpcore2",
+    "package:uvicorn",
+    "package:wsproto"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on MarkupSafe?",
+   "gold": [
+    "package:flask",
+    "package:jinja2",
+    "package:mako",
+    "package:nbconvert",
+    "package:werkzeug"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires jupyter-core?",
+   "gold": [
+    "package:ipykernel",
+    "package:jupyter-client",
+    "package:nbclient",
+    "package:nbconvert",
+    "package:nbformat"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.8,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires requests-toolbelt?",
+   "gold": [
+    "package:langsmith",
+    "package:poetry"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on pydantic?",
+   "gold": [
+    "package:anthropic",
+    "package:dbt-core",
+    "package:fastapi",
+    "package:fastapi-cloud-cli",
+    "package:fastmcp-slim",
+    "package:google-cloud-aiplatform",
+    "package:google-genai",
+    "package:langchain",
+    "package:langchain-core",
+    "package:langgraph",
+    "package:langsmith",
+    "package:litellm",
+    "package:llama-cloud-services",
+    "package:mcp",
+    "package:mcp-types",
+    "package:openai",
+    "package:openapi-pydantic",
+    "package:pydantic-ai-slim",
+    "package:pydantic-extra-types",
+    "package:pydantic-graph",
+    "package:pydantic-settings",
+    "package:sglang",
+    "package:weaviate-client"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on python-multipart?",
+   "gold": [
+    "package:mcp",
+    "package:sglang"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on boto3?",
+   "gold": [
+    "package:awswrangler",
+    "package:litellm",
+    "package:snowflake-connector-python"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires pyproject-hooks?",
+   "gold": [
+    "package:build",
+    "package:poetry"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires pytz?",
+   "gold": [
+    "package:babel",
+    "package:dbt-adapters",
+    "package:dbt-core",
+    "package:snowflake-connector-python"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on certifi?",
+   "gold": [
+    "package:google-cloud-aiplatform",
+    "package:httpcore",
+    "package:httpx",
+    "package:kubernetes",
+    "package:langchain-openai",
+    "package:modal",
+    "package:msrest",
+    "package:requests",
+    "package:sentry-sdk",
+    "package:snowflake-connector-python"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires httpx?",
+   "gold": [
+    "package:datasets",
+    "package:fastapi-cloud-cli",
+    "package:google-genai",
+    "package:langchain-core",
+    "package:litellm",
+    "package:weaviate-client"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on virtualenv?",
+   "gold": [
+    "package:poetry",
+    "package:pre-commit"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on colorama?",
+   "gold": [
+    "package:awscli",
+    "package:build",
+    "package:colorlog",
+    "package:dbt-common",
+    "package:ipython",
+    "package:loguru",
+    "package:pytest",
+    "package:sphinx",
+    "package:tqdm",
+    "package:typer"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.1,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on multidict?",
+   "gold": [
+    "package:aiobotocore",
+    "package:aiohttp",
+    "package:grpclib",
+    "package:yarl"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on websockets?",
+   "gold": [
+    "package:google-genai",
+    "package:langsmith"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on truststore?",
+   "gold": [
+    "package:httpcore2",
+    "package:httpx2"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires SQLAlchemy?",
+   "gold": [
+    "package:alembic",
+    "package:snowflake-sqlalchemy",
+    "package:sqlalchemy-bigquery"
+   ],
+   "routed_intent": "dependents",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on zipp?",
+   "gold": [
+    "package:importlib-metadata",
+    "package:importlib-resources"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on botocore?",
+   "gold": [
+    "package:aiobotocore",
+    "package:awswrangler",
+    "package:boto3",
+    "package:s3transfer",
+    "package:snowflake-connector-python"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires sympy?",
+   "gold": [
+    "package:cfn-lint",
+    "package:torch"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on pandas?",
+   "gold": [
+    "package:awswrangler",
+    "package:databricks-sql-connector",
+    "package:datasets"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on grpcio?",
+   "gold": [
+    "package:google-analytics-admin",
+    "package:google-cloud-batch",
+    "package:google-cloud-bigquery-datatransfer",
+    "package:google-cloud-bigtable",
+    "package:google-cloud-compute",
+    "package:google-cloud-dataform",
+    "package:google-cloud-dlp",
+    "package:google-cloud-kms",
+    "package:google-cloud-language",
+    "package:google-cloud-logging",
+    "package:google-cloud-monitoring",
+    "package:google-cloud-os-login",
+    "package:google-cloud-pubsub",
+    "package:google-cloud-redis",
+    "package:google-cloud-resource-manager",
+    "package:google-cloud-run",
+    "package:google-cloud-secret-manager",
+    "package:google-cloud-speech",
+    "package:google-cloud-tasks",
+    "package:google-cloud-texttospeech",
+    "package:google-cloud-videointelligence",
+    "package:google-cloud-vision",
+    "package:google-cloud-workflows",
+    "package:grpc-google-iam-v1",
+    "package:grpcio-health-checking",
+    "package:grpcio-status",
+    "package:grpcio-tools",
+    "package:opentelemetry-exporter-otlp-proto-grpc",
+    "package:weaviate-client",
+    "package:ydb"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.4,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on typing-inspection?",
+   "gold": [
+    "package:fastapi",
+    "package:mcp",
+    "package:pydantic",
+    "package:pydantic-ai-slim",
+    "package:pydantic-graph",
+    "package:pydantic-settings"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on lxml?",
+   "gold": [
+    "package:python-docx",
+    "package:python-pptx"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on azure-core?",
+   "gold": [
+    "package:azure-identity",
+    "package:azure-storage-blob",
+    "package:msrest"
+   ],
+   "routed_intent": "dependents",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires pytest?",
+   "gold": [
+    "package:pytest-asyncio",
+    "package:pytest-cov",
+    "package:pytest-json-ctrf",
+    "package:pytest-mock",
+    "package:pytest-timeout",
+    "package:pytest-xdist"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.8333333333333334,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on python-dotenv?",
+   "gold": [
+    "package:dbt-core",
+    "package:fastmcp-slim",
+    "package:litellm",
+    "package:llama-cloud-services",
+    "package:pydantic-settings"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires requests?",
+   "gold": [
+    "package:azure-core",
+    "package:cachecontrol",
+    "package:databricks-sdk",
+    "package:databricks-sql-connector",
+    "package:datadog",
+    "package:datasets",
+    "package:dbt-common",
+    "package:dbt-core",
+    "package:docker",
+    "package:gcsfs",
+    "package:google-api-core",
+    "package:google-cloud-bigquery",
+    "package:google-cloud-storage",
+    "package:google-genai",
+    "package:kubernetes",
+    "package:langsmith",
+    "package:msal",
+    "package:msrest",
+    "package:poetry",
+    "package:pygithub",
+    "package:requests-file",
+    "package:requests-oauthlib",
+    "package:requests-toolbelt",
+    "package:responses",
+    "package:sglang",
+    "package:snowflake-connector-python",
+    "package:sphinx",
+    "package:tiktoken"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires sniffio?",
+   "gold": [
+    "package:anthropic",
+    "package:google-genai",
+    "package:langsmith",
+    "package:openai"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on joblib?",
+   "gold": [
+    "package:nltk",
+    "package:scikit-learn"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on docutils?",
+   "gold": [
+    "package:awscli",
+    "package:sphinx"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on networkx?",
+   "gold": [
+    "package:cfn-lint",
+    "package:dbt-core",
+    "package:torch"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on orjson?",
+   "gold": [
+    "package:langsmith",
+    "package:sglang"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on build?",
+   "gold": [
+    "package:poetry",
+    "package:sglang"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on starlette?",
+   "gold": [
+    "package:fastapi",
+    "package:mcp",
+    "package:sse-starlette"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires protobuf?",
+   "gold": [
+    "package:databricks-sdk",
+    "package:dbt-adapters",
+    "package:dbt-common",
+    "package:dbt-core",
+    "package:google-analytics-admin",
+    "package:google-api-core",
+    "package:google-cloud-aiplatform",
+    "package:google-cloud-batch",
+    "package:google-cloud-bigquery-datatransfer",
+    "package:google-cloud-bigtable",
+    "package:google-cloud-compute",
+    "package:google-cloud-dataform",
+    "package:google-cloud-dlp",
+    "package:google-cloud-kms",
+    "package:google-cloud-language",
+    "package:google-cloud-logging",
+    "package:google-cloud-monitoring",
+    "package:google-cloud-os-login",
+    "package:google-cloud-pubsub",
+    "package:google-cloud-redis",
+    "package:google-cloud-resource-manager",
+    "package:google-cloud-run",
+    "package:google-cloud-secret-manager",
+    "package:google-cloud-speech",
+    "package:google-cloud-tasks",
+    "package:google-cloud-texttospeech",
+    "package:google-cloud-videointelligence",
+    "package:google-cloud-vision",
+    "package:google-cloud-workflows",
+    "package:googleapis-common-protos",
+    "package:grpc-google-iam-v1",
+    "package:grpcio-health-checking",
+    "package:grpcio-status",
+    "package:grpcio-tools",
+    "package:modal",
+    "package:onnxruntime",
+    "package:opentelemetry-proto",
+    "package:proto-plus",
+    "package:snowflake-snowpark-python",
+    "package:weaviate-client",
+    "package:ydb"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.4,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on trove-classifiers?",
+   "gold": [
+    "package:hatchling",
+    "package:poetry"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on annotated-doc?",
+   "gold": [
+    "package:fastapi",
+    "package:typer"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires jiter?",
+   "gold": [
+    "package:anthropic",
+    "package:openai"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on platformdirs?",
+   "gold": [
+    "package:black",
+    "package:fastmcp-slim",
+    "package:jupyter-core",
+    "package:llama-cloud-services",
+    "package:poetry",
+    "package:snowflake-connector-python",
+    "package:textual",
+    "package:virtualenv"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires scipy?",
+   "gold": [
+    "package:scikit-learn",
+    "package:sglang"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires tqdm?",
+   "gold": [
+    "package:datasets",
+    "package:huggingface-hub",
+    "package:nltk",
+    "package:sglang",
+    "package:transformers"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on tomli?",
+   "gold": [
+    "package:alembic",
+    "package:black",
+    "package:build",
+    "package:fastapi-cli",
+    "package:ghapi",
+    "package:hatchling",
+    "package:huggingface-hub",
+    "package:mypy",
+    "package:poetry",
+    "package:pytest",
+    "package:setuptools-scm",
+    "package:sglang",
+    "package:vcs-versioning"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.1,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on filelock?",
+   "gold": [
+    "package:datasets",
+    "package:huggingface-hub",
+    "package:python-discovery",
+    "package:snowflake-connector-python",
+    "package:torch",
+    "package:virtualenv"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on referencing?",
+   "gold": [
+    "package:jsonschema",
+    "package:jsonschema-path",
+    "package:jsonschema-specifications"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires proto-plus?",
+   "gold": [
+    "package:google-analytics-admin",
+    "package:google-api-core",
+    "package:google-cloud-aiplatform",
+    "package:google-cloud-batch",
+    "package:google-cloud-bigquery-datatransfer",
+    "package:google-cloud-bigtable",
+    "package:google-cloud-compute",
+    "package:google-cloud-dataform",
+    "package:google-cloud-dlp",
+    "package:google-cloud-kms",
+    "package:google-cloud-language",
+    "package:google-cloud-logging",
+    "package:google-cloud-monitoring",
+    "package:google-cloud-os-login",
+    "package:google-cloud-pubsub",
+    "package:google-cloud-redis",
+    "package:google-cloud-resource-manager",
+    "package:google-cloud-run",
+    "package:google-cloud-secret-manager",
+    "package:google-cloud-speech",
+    "package:google-cloud-tasks",
+    "package:google-cloud-texttospeech",
+    "package:google-cloud-videointelligence",
+    "package:google-cloud-vision",
+    "package:google-cloud-workflows"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on uvicorn?",
+   "gold": [
+    "package:fastapi-cli",
+    "package:fastapi-cloud-cli",
+    "package:mcp",
+    "package:sglang"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires six?",
+   "gold": [
+    "package:kubernetes",
+    "package:markdownify",
+    "package:python-dateutil",
+    "package:rfc3339-validator"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on PyYAML?",
+   "gold": [
+    "package:awscli",
+    "package:cfn-lint",
+    "package:datasets",
+    "package:dbt-core",
+    "package:huggingface-hub",
+    "package:jsonschema-path",
+    "package:kubernetes",
+    "package:langchain-core",
+    "package:libcst",
+    "package:pre-commit",
+    "package:responses",
+    "package:snowflake-snowpark-python",
+    "package:transformers"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on mypy-extensions?",
+   "gold": [
+    "package:black",
+    "package:isort",
+    "package:mypy",
+    "package:typing-inspect"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.25,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which packages depend on opentelemetry-sdk?",
+   "gold": [
+    "package:google-cloud-bigtable",
+    "package:google-cloud-pubsub",
+    "package:opentelemetry-exporter-otlp-proto-grpc",
+    "package:opentelemetry-exporter-otlp-proto-http",
+    "package:opentelemetry-exporter-prometheus"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.4,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires cffi?",
+   "gold": [
+    "package:argon2-cffi-bindings",
+    "package:cryptography",
+    "package:pynacl",
+    "package:pyzmq"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.25,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires rpds-py?",
+   "gold": [
+    "package:jsonschema",
+    "package:referencing"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires cloudpickle?",
+   "gold": [
+    "package:joblib",
+    "package:snowflake-snowpark-python"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "What in this set requires opentelemetry-proto?",
+   "gold": [
+    "package:opentelemetry-exporter-otlp-proto-common",
+    "package:opentelemetry-exporter-otlp-proto-grpc",
+    "package:opentelemetry-exporter-otlp-proto-http"
+   ],
+   "routed_intent": "dependents",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dependents",
+   "question": "Which libraries are built on tenacity?",
+   "gold": [
+    "package:google-genai",
+    "package:langchain-core",
+    "package:llama-cloud-services"
+   ],
+   "routed_intent": "dependents",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages cyclopts needs use?",
+   "gold": [
+    "package:attrs",
+    "package:docstring-parser",
+    "package:rich",
+    "package:rich-rst"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of huggingface-hub released?",
+   "gold": [
+    "package:click",
+    "package:filelock",
+    "package:fsspec",
+    "package:hf-xet",
+    "package:httpx2",
+    "package:packaging",
+    "package:pyyaml",
+    "package:tomli",
+    "package:tqdm",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.1,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages rich needs use?",
+   "gold": [
+    "package:markdown-it-py",
+    "package:pygments"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of awswrangler released?",
+   "gold": [
+    "package:boto3",
+    "package:botocore",
+    "package:numpy",
+    "package:packaging",
+    "package:pandas",
+    "package:pyarrow",
+    "package:setuptools",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.125,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages azure-core needs use?",
+   "gold": [
+    "package:requests",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of google-cloud-tasks released?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:grpc-google-iam-v1",
+    "package:grpcio",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages GitPython needs use?",
+   "gold": [
+    "package:gitdb",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of Flask released?",
+   "gold": [
+    "package:blinker",
+    "package:click",
+    "package:importlib-metadata",
+    "package:itsdangerous",
+    "package:jinja2",
+    "package:markupsafe",
+    "package:werkzeug"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.14285714285714285,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages pytest-cov needs use?",
+   "gold": [
+    "package:coverage",
+    "package:pluggy",
+    "package:pytest"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of google-genai released?",
+   "gold": [
+    "package:anyio",
+    "package:distro",
+    "package:google-auth",
+    "package:httpx",
+    "package:pydantic",
+    "package:requests",
+    "package:sniffio",
+    "package:tenacity",
+    "package:typing-extensions",
+    "package:websockets"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of jupyter-core released?",
+   "gold": [
+    "package:platformdirs",
+    "package:traitlets"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of litellm released?",
+   "gold": [
+    "package:aiohttp",
+    "package:boto3",
+    "package:click",
+    "package:fastuuid",
+    "package:httpx",
+    "package:importlib-metadata",
+    "package:jinja2",
+    "package:jsonschema",
+    "package:openai",
+    "package:pydantic",
+    "package:pydantic-settings",
+    "package:python-dotenv",
+    "package:tiktoken",
+    "package:tokenizers"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages pydantic needs use?",
+   "gold": [
+    "package:annotated-types",
+    "package:pydantic-core",
+    "package:typing-extensions",
+    "package:typing-inspection"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.25,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of email-validator released?",
+   "gold": [
+    "package:dnspython",
+    "package:idna"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of grpc-google-iam-v1 released?",
+   "gold": [
+    "package:googleapis-common-protos",
+    "package:grpcio",
+    "package:protobuf"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages dbt-common needs use?",
+   "gold": [
+    "package:colorama",
+    "package:deepdiff",
+    "package:isodate",
+    "package:jinja2",
+    "package:jsonschema",
+    "package:opentelemetry-api",
+    "package:pathspec",
+    "package:protobuf",
+    "package:python-dateutil",
+    "package:requests",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages opentelemetry-instrumentation needs use?",
+   "gold": [
+    "package:opentelemetry-api",
+    "package:opentelemetry-semantic-conventions",
+    "package:packaging",
+    "package:wrapt"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.25,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages google-cloud-os-login needs use?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:grpcio",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.2,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of azure-storage-blob released?",
+   "gold": [
+    "package:azure-core",
+    "package:cryptography",
+    "package:isodate",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.25,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of grpcio-tools released?",
+   "gold": [
+    "package:grpcio",
+    "package:protobuf",
+    "package:setuptools"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of google-auth released?",
+   "gold": [
+    "package:cryptography",
+    "package:pyasn1-modules"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of playwright released?",
+   "gold": [
+    "package:greenlet",
+    "package:pyee"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of CacheControl released?",
+   "gold": [
+    "package:msgpack",
+    "package:requests"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of grpcio-status released?",
+   "gold": [
+    "package:googleapis-common-protos",
+    "package:grpcio",
+    "package:protobuf"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages markdownify needs use?",
+   "gold": [
+    "package:beautifulsoup4",
+    "package:six"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages httpx needs use?",
+   "gold": [
+    "package:anyio",
+    "package:certifi",
+    "package:httpcore",
+    "package:idna"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.25,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages grpcio-health-checking needs use?",
+   "gold": [
+    "package:grpcio",
+    "package:protobuf"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of mcp-types released?",
+   "gold": [
+    "package:pydantic",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of datasets released?",
+   "gold": [
+    "package:dill",
+    "package:filelock",
+    "package:fsspec",
+    "package:httpx",
+    "package:huggingface-hub",
+    "package:multiprocess",
+    "package:numpy",
+    "package:packaging",
+    "package:pandas",
+    "package:pyarrow",
+    "package:pyyaml",
+    "package:requests",
+    "package:tqdm",
+    "package:xxhash"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.1,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages databricks-sql-connector needs use?",
+   "gold": [
+    "package:lz4",
+    "package:oauthlib",
+    "package:openpyxl",
+    "package:pandas",
+    "package:pyjwt",
+    "package:python-dateutil",
+    "package:requests",
+    "package:urllib3"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of pydantic-graph released?",
+   "gold": [
+    "package:anyio",
+    "package:pydantic",
+    "package:typing-inspection"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages opentelemetry-instrumentation-asgi needs use?",
+   "gold": [
+    "package:asgiref",
+    "package:opentelemetry-api",
+    "package:opentelemetry-instrumentation",
+    "package:opentelemetry-semantic-conventions",
+    "package:opentelemetry-util-http"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.6,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages opentelemetry-exporter-prometheus needs use?",
+   "gold": [
+    "package:opentelemetry-api",
+    "package:opentelemetry-sdk",
+    "package:prometheus-client"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages yarl needs use?",
+   "gold": [
+    "package:idna",
+    "package:multidict",
+    "package:propcache"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages ipykernel needs use?",
+   "gold": [
+    "package:comm",
+    "package:debugpy",
+    "package:ipython",
+    "package:jupyter-client",
+    "package:jupyter-core",
+    "package:matplotlib-inline",
+    "package:packaging",
+    "package:psutil",
+    "package:pyzmq",
+    "package:tornado",
+    "package:traitlets"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.2,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages docker needs use?",
+   "gold": [
+    "package:requests",
+    "package:urllib3"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages Sphinx needs use?",
+   "gold": [
+    "package:babel",
+    "package:colorama",
+    "package:docutils",
+    "package:jinja2",
+    "package:packaging",
+    "package:pygments",
+    "package:requests"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.14285714285714285,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of sqlalchemy-bigquery released?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:google-cloud-bigquery",
+    "package:packaging",
+    "package:sqlalchemy"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.4,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of opentelemetry-sdk released?",
+   "gold": [
+    "package:opentelemetry-api",
+    "package:opentelemetry-semantic-conventions",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of msrest released?",
+   "gold": [
+    "package:azure-core",
+    "package:certifi",
+    "package:isodate",
+    "package:requests",
+    "package:requests-oauthlib"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages virtualenv needs use?",
+   "gold": [
+    "package:distlib",
+    "package:filelock",
+    "package:platformdirs",
+    "package:python-discovery",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages SecretStorage needs use?",
+   "gold": [
+    "package:cryptography",
+    "package:jeepney"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages httpx2 needs use?",
+   "gold": [
+    "package:anyio",
+    "package:httpcore2",
+    "package:idna",
+    "package:truststore",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.2,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of gcsfs released?",
+   "gold": [
+    "package:aiohttp",
+    "package:decorator",
+    "package:fsspec",
+    "package:google-auth",
+    "package:google-auth-oauthlib",
+    "package:google-cloud-storage",
+    "package:requests"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.14285714285714285,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of google-analytics-admin released?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:grpcio",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages langchain-core needs use?",
+   "gold": [
+    "package:httpx",
+    "package:jsonpatch",
+    "package:langchain-protocol",
+    "package:langsmith",
+    "package:packaging",
+    "package:pydantic",
+    "package:pyyaml",
+    "package:tenacity",
+    "package:typing-extensions",
+    "package:uuid-utils"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.3,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of cryptography released?",
+   "gold": [
+    "package:cffi",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages botocore needs use?",
+   "gold": [
+    "package:jmespath",
+    "package:python-dateutil",
+    "package:urllib3"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages cleo needs use?",
+   "gold": [
+    "package:crashtest",
+    "package:rapidfuzz"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages google-cloud-bigquery needs use?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:google-cloud-core",
+    "package:google-resumable-media",
+    "package:packaging",
+    "package:python-dateutil",
+    "package:requests"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of google-cloud-dlp released?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:grpcio",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of boto3 released?",
+   "gold": [
+    "package:botocore",
+    "package:jmespath",
+    "package:s3transfer"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of langgraph released?",
+   "gold": [
+    "package:langchain-core",
+    "package:pydantic",
+    "package:xxhash"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of aiosignal released?",
+   "gold": [
+    "package:frozenlist",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of responses released?",
+   "gold": [
+    "package:pyyaml",
+    "package:requests",
+    "package:urllib3"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of libcst released?",
+   "gold": [
+    "package:pyyaml",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of torch released?",
+   "gold": [
+    "package:filelock",
+    "package:fsspec",
+    "package:jinja2",
+    "package:networkx",
+    "package:setuptools",
+    "package:sympy",
+    "package:triton",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages nltk needs use?",
+   "gold": [
+    "package:click",
+    "package:defusedxml",
+    "package:joblib",
+    "package:regex",
+    "package:tqdm"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "Under which licenses are the dependencies of opentelemetry-instrumentation-requests released?",
+   "gold": [
+    "package:opentelemetry-api",
+    "package:opentelemetry-instrumentation",
+    "package:opentelemetry-semantic-conventions",
+    "package:opentelemetry-util-http"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.75,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_licenses",
+   "question": "What licences do the packages google-cloud-dataform needs use?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:grpc-google-iam-v1",
+    "package:grpcio",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "dep_licenses",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of httpx's dependencies?",
+   "gold": [
+    "package:anyio",
+    "package:certifi",
+    "package:httpcore",
+    "package:idna"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.25,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of GitPython's dependencies?",
+   "gold": [
+    "package:gitdb",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of Flask's dependencies?",
+   "gold": [
+    "package:blinker",
+    "package:click",
+    "package:importlib-metadata",
+    "package:itsdangerous",
+    "package:jinja2",
+    "package:markupsafe",
+    "package:werkzeug"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.14285714285714285,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that snowflake-connector-python depends on?",
+   "gold": [
+    "package:asn1crypto",
+    "package:boto3",
+    "package:botocore",
+    "package:certifi",
+    "package:charset-normalizer",
+    "package:cryptography",
+    "package:filelock",
+    "package:idna",
+    "package:packaging",
+    "package:platformdirs",
+    "package:pyjwt",
+    "package:pyopenssl",
+    "package:pytz",
+    "package:requests",
+    "package:sortedcontainers",
+    "package:tomlkit",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.1,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that openai depends on?",
+   "gold": [
+    "package:anyio",
+    "package:httpx2",
+    "package:jiter",
+    "package:pydantic",
+    "package:sniffio",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of langchain's dependencies?",
+   "gold": [
+    "package:langchain-core",
+    "package:langgraph",
+    "package:pydantic"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that pandas depends on?",
+   "gold": [
+    "package:numpy",
+    "package:python-dateutil",
+    "package:tzdata"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that langchain-openai depends on?",
+   "gold": [
+    "package:certifi",
+    "package:langchain-core",
+    "package:openai",
+    "package:tiktoken"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that poetry depends on?",
+   "gold": [
+    "package:build",
+    "package:cachecontrol",
+    "package:cleo",
+    "package:dulwich",
+    "package:fastjsonschema",
+    "package:installer",
+    "package:keyring",
+    "package:packaging",
+    "package:pbs-installer",
+    "package:pkginfo",
+    "package:platformdirs",
+    "package:poetry-core",
+    "package:pyproject-hooks",
+    "package:requests",
+    "package:requests-toolbelt",
+    "package:shellingham",
+    "package:tomli",
+    "package:tomlkit",
+    "package:trove-classifiers",
+    "package:virtualenv"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.3,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that opentelemetry-semantic-conventions depends on?",
+   "gold": [
+    "package:opentelemetry-api",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of awscli's dependencies?",
+   "gold": [
+    "package:colorama",
+    "package:docutils",
+    "package:jmespath",
+    "package:python-dateutil",
+    "package:pyyaml",
+    "package:rsa",
+    "package:urllib3"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.14285714285714285,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that pyOpenSSL depends on?",
+   "gold": [
+    "package:cryptography",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of cyclopts's dependencies?",
+   "gold": [
+    "package:attrs",
+    "package:docstring-parser",
+    "package:rich",
+    "package:rich-rst"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that stack-data depends on?",
+   "gold": [
+    "package:asttokens",
+    "package:executing",
+    "package:pure-eval"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of pendulum's dependencies?",
+   "gold": [
+    "package:python-dateutil",
+    "package:tzdata"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of referencing's dependencies?",
+   "gold": [
+    "package:attrs",
+    "package:rpds-py",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that cattrs depends on?",
+   "gold": [
+    "package:attrs",
+    "package:exceptiongroup",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that msrest depends on?",
+   "gold": [
+    "package:azure-core",
+    "package:certifi",
+    "package:isodate",
+    "package:requests",
+    "package:requests-oauthlib"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of google-cloud-bigtable's dependencies?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:google-cloud-core",
+    "package:google-cloud-monitoring",
+    "package:google-crc32c",
+    "package:grpc-google-iam-v1",
+    "package:grpcio",
+    "package:opentelemetry-api",
+    "package:opentelemetry-sdk",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.1,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of google-genai's dependencies?",
+   "gold": [
+    "package:anyio",
+    "package:distro",
+    "package:google-auth",
+    "package:httpx",
+    "package:pydantic",
+    "package:requests",
+    "package:sniffio",
+    "package:tenacity",
+    "package:typing-extensions",
+    "package:websockets"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that pre-commit depends on?",
+   "gold": [
+    "package:cfgv",
+    "package:identify",
+    "package:nodeenv",
+    "package:pyyaml",
+    "package:virtualenv"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.4,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of sqlalchemy-bigquery's dependencies?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:google-cloud-bigquery",
+    "package:packaging",
+    "package:sqlalchemy"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.4,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that mcp-types depends on?",
+   "gold": [
+    "package:pydantic",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of opentelemetry-instrumentation-asgi's dependencies?",
+   "gold": [
+    "package:asgiref",
+    "package:opentelemetry-api",
+    "package:opentelemetry-instrumentation",
+    "package:opentelemetry-semantic-conventions",
+    "package:opentelemetry-util-http"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.6,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of langsmith's dependencies?",
+   "gold": [
+    "package:anyio",
+    "package:distro",
+    "package:httpx2",
+    "package:orjson",
+    "package:packaging",
+    "package:pydantic",
+    "package:requests",
+    "package:requests-toolbelt",
+    "package:sniffio",
+    "package:typing-extensions",
+    "package:uuid-utils",
+    "package:websockets",
+    "package:xxhash",
+    "package:zstandard"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that requests depends on?",
+   "gold": [
+    "package:certifi",
+    "package:charset-normalizer",
+    "package:idna",
+    "package:urllib3"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that pytest-xdist depends on?",
+   "gold": [
+    "package:execnet",
+    "package:pytest"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that google-cloud-logging depends on?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:google-cloud-core",
+    "package:grpc-google-iam-v1",
+    "package:grpcio",
+    "package:opentelemetry-api",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of anyio's dependencies?",
+   "gold": [
+    "package:exceptiongroup",
+    "package:idna",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of aiobotocore's dependencies?",
+   "gold": [
+    "package:aiohttp",
+    "package:aioitertools",
+    "package:botocore",
+    "package:jmespath",
+    "package:multidict",
+    "package:python-dateutil",
+    "package:typing-extensions",
+    "package:wrapt"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of google-auth-httplib2's dependencies?",
+   "gold": [
+    "package:google-auth",
+    "package:httplib2"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that grpcio-status depends on?",
+   "gold": [
+    "package:googleapis-common-protos",
+    "package:grpcio",
+    "package:protobuf"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of typing-inspect's dependencies?",
+   "gold": [
+    "package:mypy-extensions",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of PyGithub's dependencies?",
+   "gold": [
+    "package:pyjwt",
+    "package:pynacl",
+    "package:requests",
+    "package:typing-extensions",
+    "package:urllib3"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that google-cloud-run depends on?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:grpc-google-iam-v1",
+    "package:grpcio",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that httpx2 depends on?",
+   "gold": [
+    "package:anyio",
+    "package:httpcore2",
+    "package:idna",
+    "package:truststore",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.2,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that botocore depends on?",
+   "gold": [
+    "package:jmespath",
+    "package:python-dateutil",
+    "package:urllib3"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of opentelemetry-instrumentation-threading's dependencies?",
+   "gold": [
+    "package:opentelemetry-api",
+    "package:opentelemetry-instrumentation",
+    "package:wrapt"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of google-cloud-speech's dependencies?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:grpcio",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that s3fs depends on?",
+   "gold": [
+    "package:aiobotocore",
+    "package:aiohttp",
+    "package:fsspec"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that matplotlib depends on?",
+   "gold": [
+    "package:contourpy",
+    "package:cycler",
+    "package:fonttools",
+    "package:kiwisolver",
+    "package:numpy",
+    "package:packaging",
+    "package:pillow",
+    "package:pyparsing",
+    "package:python-dateutil"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.1111111111111111,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that langgraph depends on?",
+   "gold": [
+    "package:langchain-core",
+    "package:pydantic",
+    "package:xxhash"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that setuptools-scm depends on?",
+   "gold": [
+    "package:packaging",
+    "package:setuptools",
+    "package:tomli",
+    "package:typing-extensions",
+    "package:vcs-versioning"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.4,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of boto3's dependencies?",
+   "gold": [
+    "package:botocore",
+    "package:jmespath",
+    "package:s3transfer"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of yarl's dependencies?",
+   "gold": [
+    "package:idna",
+    "package:multidict",
+    "package:propcache"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that dulwich depends on?",
+   "gold": [
+    "package:typing-extensions",
+    "package:urllib3"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that google-cloud-os-login depends on?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:grpcio",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.2,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of google-cloud-workflows's dependencies?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:grpcio",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of python-docx's dependencies?",
+   "gold": [
+    "package:lxml",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that black depends on?",
+   "gold": [
+    "package:click",
+    "package:mypy-extensions",
+    "package:packaging",
+    "package:pathspec",
+    "package:platformdirs",
+    "package:pytokens",
+    "package:tomli",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.125,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that awswrangler depends on?",
+   "gold": [
+    "package:boto3",
+    "package:botocore",
+    "package:numpy",
+    "package:packaging",
+    "package:pandas",
+    "package:pyarrow",
+    "package:setuptools",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.125,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of SecretStorage's dependencies?",
+   "gold": [
+    "package:cryptography",
+    "package:jeepney"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that sentry-sdk depends on?",
+   "gold": [
+    "package:certifi",
+    "package:urllib3"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that fastapi-cloud-cli depends on?",
+   "gold": [
+    "package:httpx",
+    "package:pydantic",
+    "package:rich-toolkit",
+    "package:sentry-sdk",
+    "package:typer",
+    "package:uvicorn"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of opentelemetry-instrumentation-requests's dependencies?",
+   "gold": [
+    "package:opentelemetry-api",
+    "package:opentelemetry-instrumentation",
+    "package:opentelemetry-semantic-conventions",
+    "package:opentelemetry-util-http"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.75,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that cfn-lint depends on?",
+   "gold": [
+    "package:jsonpatch",
+    "package:networkx",
+    "package:pyyaml",
+    "package:regex",
+    "package:sympy",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who maintains the packages that weaviate-client depends on?",
+   "gold": [
+    "package:authlib",
+    "package:grpcio",
+    "package:httpx",
+    "package:packaging",
+    "package:protobuf",
+    "package:pydantic"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.16666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of jsonschema-path's dependencies?",
+   "gold": [
+    "package:attrs",
+    "package:pathable",
+    "package:pyyaml",
+    "package:referencing"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of mcp's dependencies?",
+   "gold": [
+    "package:anyio",
+    "package:httpx2",
+    "package:jsonschema",
+    "package:mcp-types",
+    "package:opentelemetry-api",
+    "package:pydantic",
+    "package:pyjwt",
+    "package:python-multipart",
+    "package:sse-starlette",
+    "package:starlette",
+    "package:typing-extensions",
+    "package:typing-inspection",
+    "package:uvicorn"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.1,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "dep_maintainers",
+   "question": "Who are the authors of poetry-plugin-export's dependencies?",
+   "gold": [
+    "package:poetry",
+    "package:poetry-core",
+    "package:tomlkit"
+   ],
+   "routed_intent": "dep_maintainers",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do aioitertools and pypdf both depend on?",
+   "gold": [
+    "package:aioitertools",
+    "package:pypdf",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do httpx2 and snowflake-connector-python have in common?",
+   "gold": [
+    "package:httpx2",
+    "package:idna",
+    "package:snowflake-connector-python",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do GitPython and opentelemetry-exporter-otlp-proto-http both depend on?",
+   "gold": [
+    "package:gitpython",
+    "package:opentelemetry-exporter-otlp-proto-http",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do rich-rst and typer have in common?",
+   "gold": [
+    "package:rich",
+    "package:rich-rst",
+    "package:typer"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do dbt-core and exceptiongroup have in common?",
+   "gold": [
+    "package:dbt-core",
+    "package:exceptiongroup",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do asgiref and langchain-core have in common?",
+   "gold": [
+    "package:asgiref",
+    "package:langchain-core",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do google-auth-oauthlib and google-cloud-resource-manager both depend on?",
+   "gold": [
+    "package:google-auth",
+    "package:google-auth-oauthlib",
+    "package:google-cloud-resource-manager"
+   ],
+   "routed_intent": "shared",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do anyio and pytest have in common?",
+   "gold": [
+    "package:anyio",
+    "package:exceptiongroup",
+    "package:pytest"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do azure-identity and referencing have in common?",
+   "gold": [
+    "package:azure-identity",
+    "package:referencing",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do google-cloud-aiplatform and langchain have in common?",
+   "gold": [
+    "package:google-cloud-aiplatform",
+    "package:langchain",
+    "package:pydantic"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do pyee and torch both depend on?",
+   "gold": [
+    "package:pyee",
+    "package:torch",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do aioitertools and pydantic_core both depend on?",
+   "gold": [
+    "package:aioitertools",
+    "package:pydantic-core",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do google-api-python-client and google-cloud-texttospeech both depend on?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-api-python-client",
+    "package:google-auth",
+    "package:google-cloud-texttospeech"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do google-auth-httplib2 and google-cloud-core have in common?",
+   "gold": [
+    "package:google-auth",
+    "package:google-auth-httplib2",
+    "package:google-cloud-core"
+   ],
+   "routed_intent": "shared",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do cfn-lint and pydantic_core have in common?",
+   "gold": [
+    "package:cfn-lint",
+    "package:pydantic-core",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do aiobotocore and rich-toolkit have in common?",
+   "gold": [
+    "package:aiobotocore",
+    "package:rich-toolkit",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do dbt-adapters and libcst both depend on?",
+   "gold": [
+    "package:dbt-adapters",
+    "package:libcst",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do google-cloud-aiplatform and setuptools-scm have in common?",
+   "gold": [
+    "package:google-cloud-aiplatform",
+    "package:packaging",
+    "package:setuptools-scm",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do anyio and pytest-asyncio have in common?",
+   "gold": [
+    "package:anyio",
+    "package:pytest-asyncio",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do mcp-types and weaviate-client have in common?",
+   "gold": [
+    "package:mcp-types",
+    "package:pydantic",
+    "package:weaviate-client"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do black and fastmcp-slim both depend on?",
+   "gold": [
+    "package:black",
+    "package:fastmcp-slim",
+    "package:platformdirs",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do databricks-sdk and onnxruntime both depend on?",
+   "gold": [
+    "package:databricks-sdk",
+    "package:onnxruntime",
+    "package:protobuf"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do aiobotocore and Deprecated both depend on?",
+   "gold": [
+    "package:aiobotocore",
+    "package:deprecated",
+    "package:wrapt"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do databricks-sdk and google-cloud-logging have in common?",
+   "gold": [
+    "package:databricks-sdk",
+    "package:google-auth",
+    "package:google-cloud-logging",
+    "package:protobuf"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do opentelemetry-semantic-conventions and pydantic_core both depend on?",
+   "gold": [
+    "package:opentelemetry-semantic-conventions",
+    "package:pydantic-core",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do py-key-value-aio and pydantic both depend on?",
+   "gold": [
+    "package:py-key-value-aio",
+    "package:pydantic",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do snowflake-connector-python and uvicorn both depend on?",
+   "gold": [
+    "package:snowflake-connector-python",
+    "package:typing-extensions",
+    "package:uvicorn"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do azure-identity and uvicorn have in common?",
+   "gold": [
+    "package:azure-identity",
+    "package:typing-extensions",
+    "package:uvicorn"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do aiobotocore and opentelemetry-api have in common?",
+   "gold": [
+    "package:aiobotocore",
+    "package:opentelemetry-api",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do fastapi and langgraph both depend on?",
+   "gold": [
+    "package:fastapi",
+    "package:langgraph",
+    "package:pydantic"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do google-cloud-batch and google-cloud-dataform both depend on?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:google-cloud-batch",
+    "package:google-cloud-dataform",
+    "package:grpcio",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.2857142857142857,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do pydantic-settings and sglang have in common?",
+   "gold": [
+    "package:pydantic",
+    "package:pydantic-settings",
+    "package:sglang"
+   ],
+   "routed_intent": "shared",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do aioitertools and cfn-lint both depend on?",
+   "gold": [
+    "package:aioitertools",
+    "package:cfn-lint",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do modal and python-pptx both depend on?",
+   "gold": [
+    "package:modal",
+    "package:python-pptx",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do dbt-adapters and pydantic have in common?",
+   "gold": [
+    "package:dbt-adapters",
+    "package:pydantic",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do black and confluent-kafka both depend on?",
+   "gold": [
+    "package:black",
+    "package:confluent-kafka",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do confluent-kafka and pydantic_core both depend on?",
+   "gold": [
+    "package:confluent-kafka",
+    "package:pydantic-core",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do google-cloud-vision and snowflake-snowpark-python both depend on?",
+   "gold": [
+    "package:google-cloud-vision",
+    "package:protobuf",
+    "package:snowflake-snowpark-python"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do azure-core and Sphinx have in common?",
+   "gold": [
+    "package:azure-core",
+    "package:requests",
+    "package:sphinx"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do grpcio and openai both depend on?",
+   "gold": [
+    "package:grpcio",
+    "package:openai",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do google-api-python-client and google-cloud-pubsub both depend on?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-api-python-client",
+    "package:google-auth",
+    "package:google-cloud-pubsub"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.5,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do pytest-asyncio and referencing both depend on?",
+   "gold": [
+    "package:pytest-asyncio",
+    "package:referencing",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do dbt-core and ipython have in common?",
+   "gold": [
+    "package:dbt-core",
+    "package:ipython",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do azure-storage-blob and pypdf have in common?",
+   "gold": [
+    "package:azure-storage-blob",
+    "package:pypdf",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do aioitertools and modal have in common?",
+   "gold": [
+    "package:aioitertools",
+    "package:modal",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do databricks-sdk and opentelemetry-proto both depend on?",
+   "gold": [
+    "package:databricks-sdk",
+    "package:opentelemetry-proto",
+    "package:protobuf"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do google-cloud-aiplatform and opentelemetry-exporter-otlp-proto-http have in common?",
+   "gold": [
+    "package:google-cloud-aiplatform",
+    "package:opentelemetry-exporter-otlp-proto-http",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do google-api-core and google-cloud-compute have in common?",
+   "gold": [
+    "package:google-api-core",
+    "package:google-auth",
+    "package:google-cloud-compute",
+    "package:proto-plus",
+    "package:protobuf"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.4,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do graphql-core and virtualenv both depend on?",
+   "gold": [
+    "package:graphql-core",
+    "package:typing-extensions",
+    "package:virtualenv"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do fastapi and ipython both depend on?",
+   "gold": [
+    "package:fastapi",
+    "package:ipython",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do fastapi and pydantic-graph have in common?",
+   "gold": [
+    "package:fastapi",
+    "package:pydantic",
+    "package:pydantic-graph",
+    "package:typing-inspection"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.75,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do langgraph and weaviate-client both depend on?",
+   "gold": [
+    "package:langgraph",
+    "package:pydantic",
+    "package:weaviate-client"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do opentelemetry-api and referencing both depend on?",
+   "gold": [
+    "package:opentelemetry-api",
+    "package:referencing",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.3333333333333333,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do GitPython and snowflake-snowpark-python have in common?",
+   "gold": [
+    "package:gitpython",
+    "package:snowflake-snowpark-python",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do confluent-kafka and httpx2 have in common?",
+   "gold": [
+    "package:confluent-kafka",
+    "package:httpx2",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do mcp-types and pydantic-extra-types both depend on?",
+   "gold": [
+    "package:mcp-types",
+    "package:pydantic",
+    "package:pydantic-extra-types",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.75,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do asgiref and py-key-value-aio both depend on?",
+   "gold": [
+    "package:asgiref",
+    "package:py-key-value-aio",
+    "package:typing-extensions"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "Which dependencies do awswrangler and wheel have in common?",
+   "gold": [
+    "package:awswrangler",
+    "package:packaging",
+    "package:wheel"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do kubernetes and requests-toolbelt both depend on?",
+   "gold": [
+    "package:kubernetes",
+    "package:requests",
+    "package:requests-toolbelt"
+   ],
+   "routed_intent": "shared",
+   "vector": 0.6666666666666666,
+   "routed": 1.0,
+   "both": 1.0
+  },
+  {
+   "kind": "shared",
+   "question": "What do matplotlib and numba both depend on?",
+   "gold": [
+    "package:matplotlib",
+    "package:numba",
+    "package:numpy"
+   ],
+   "routed_intent": "shared",
+   "vector": 1.0,
+   "routed": 1.0,
+   "both": 1.0
+  }
+ ]
+}
