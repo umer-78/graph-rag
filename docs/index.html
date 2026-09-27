@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Graph RAG · Umer Hashmi</title>
+  <meta name="description" content="A knowledge graph next to vector search, with a router between them: ask about the dependencies of the 500 most-downloaded PyPI packages.">
+  <link rel="stylesheet" href="kit.css">
+  <style>:root { --accent: #047857; --on-accent: #fff; } @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --accent: #6ee7b7; --on-accent: #0f0e0c; } }</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <a class="crumb" href="https://umer-78.github.io/">← All projects</a>
+      <h1>Graph RAG</h1>
+      <p class="lede">Vector search finds passages that sound like the question; it cannot follow a relationship. This retriever keeps a knowledge graph of the 500 most-downloaded PyPI packages (what each depends on, and under which licence) beside the vector index, and a small router sends each question to the right one. Ask it something below: the router and the graph walk run in your browser, exactly as in the code.</p>
+      <div class="links"><a class="btn primary" href="#ask">Ask the graph</a><a class="btn" href="https://github.com/umer-78/graph-rag">Code and method</a></div>
+    </header>
+    <main>
+      <section class="kpis" id="kpis"></section>
+      <section class="card" id="ask">
+        <h2>Ask the graph</h2>
+        <p class="sub">Name one or two packages and ask what they depend on, what depends on them, their dependencies' licences, or what two of them share. Anything else goes to vector search, which needs the embedding model and does not run here.</p>
+        <form id="form" class="controls" autocomplete="off"><input id="q" class="text" aria-label="Question" placeholder="What does fastapi depend on?"><button class="btn primary" type="submit">Ask</button></form>
+        <div class="controls small" id="examples"></div>
+        <div class="readout" id="route"></div>
+        <div id="answer" style="margin-top:12px"></div>
+      </section>
+      <section class="card">
+        <h2>Vector search against the graph, by question kind</h2>
+        <p class="sub">Recall@10 on 360 generated questions, 60 of each kind, whose answers are known from the metadata. Relationship questions are where vector search falls apart.</p>
+        <div id="kinds"></div>
+      </section>
+    </main>
+    <footer>Built by <a href="https://github.com/umer-78">Umer Hashmi</a> · Package metadata from the <a href="https://pypi.org">PyPI</a> JSON API and the top-packages list by Hugo van Kemenade, fetched at run time · Maintainer names are left out of this page</footer>
+  </div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

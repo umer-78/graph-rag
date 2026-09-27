@@ -1,5 +1,7 @@
 # graph-rag
 
+**Live demo:** https://umer-78.github.io/graph-rag/ (ask about PyPI dependencies; the router and graph walk run in your browser)
+
 Retrieval for questions that need two or three hops across related things, where vector search fails because the second hop's text looks nothing like the question.
 
 The corpus is the 500 most-downloaded Python packages, with their PyPI records as documents: summaries and descriptions. It is built from the same chunks two ways:
@@ -61,6 +63,7 @@ r.answer("Who maintains the packages that requests depends on?")
 pip install -e '.[dev]'
 pytest -q
 python -m graphrag bench
+python -m graphrag.demo    # rebuild the live demo's data in docs/
 ```
 
 The package list, PyPI records and bge-small (pinned by SHA-256) are downloaded on first use into `~/.cache/graphrag`, which pins the corpus to the day it was fetched; nothing is committed.
