@@ -1,5 +1,7 @@
 # graph-rag
 
+[![Graph RAG: the live demo](.github/preview.jpg)](https://umer-78.github.io/graph-rag/)
+
 **Live demo:** https://umer-78.github.io/graph-rag/ (ask about PyPI dependencies; the router and graph walk run in your browser)
 
 Retrieval for questions that need two or three hops across related things, where vector search fails because the second hop's text looks nothing like the question.
