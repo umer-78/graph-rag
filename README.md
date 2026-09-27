@@ -1,5 +1,7 @@
 # graph-rag
 
+[![CI](https://github.com/umer-78/graph-rag/actions/workflows/ci.yml/badge.svg)](https://github.com/umer-78/graph-rag/actions/workflows/ci.yml)
+
 [![Graph RAG: the live demo](.github/preview.jpg)](https://umer-78.github.io/graph-rag/)
 
 **Live demo:** https://umer-78.github.io/graph-rag/ (ask about PyPI dependencies; the router and graph walk run in your browser)
